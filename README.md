@@ -1,0 +1,2 @@
+# dosyaokuma
+dosya okuma
